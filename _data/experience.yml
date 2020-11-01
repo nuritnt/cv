@@ -1,9 +1,47 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+  company: Panter AG, Zürich
+  link: panter.ch
+  jobs:
+    - title: Software Engineer
+      dates: April 2018  - heute
+    - title: Software Engineer Praktikum
+      dates: April 2017 - April 2018
+  description: |
+    Panter AG ist eine Agentur tätig in der Beratung und Entwicklung von Web- und Mobile-Applikationen. Schlanke, agile und flexible Prinzipien zeichnen die Kultur von Panter aus.
+
+    - Mitwirkung bei dem Requirements Engineering
+    - Full-Stack-Entwicklung nach agilen Projektmethoden (Scrum, Kanban)
+    - Web-Applikationen, SPA oder Mobile Apps
+    - **TypeScript, React Native, Next.js, Apollo Server, GraphQL, Prisma**
+    - **Vue.js, Ruby on Rails, PostgreSQL, Jest, Capybara**
+    - Teil des Support-Team im Rahmen von Unterhaltsarbeiten (SLA)
+    - Mitorganisation & Durchführung des Firmen Meetup "Pantalks"
+- layout: left
+  company: Sabbatical
+  dates: Juni 2015 - März 2017
+  description: |
+    Ich hatte das Privileg eine Auszeit zu nehmen. In dieser Zeit bin ich gereist, habe ein Studium angefangen und verschiedene Jobs ausgeübt.
+
+    Diese Zeit hat mir ermöglicht meine Fähigkeiten und Interessen besser kennenzulernen.
+    Neben der Arbeit hatte ich dazu noch die Chance Herzensprojekte zu realisieren; eine Filmproduktion leiten, Semiprofessionelle maschinelle
+    Stickerei und - das wichtigste - **Programmieren entdecken**.
+    Während dem Sabbatical wurde mir bewusst, dass mich das Programmieren nicht los lässt und dies meine nächste Herausforderung wird.
+
+    - Garderobenmitarbeiterin, Hinterhof GmbH, Basel, Dezember 2015 - Mai 2017
+    - Barmitarbeiterin, Minus-1, Künten, Januar 2016 - März 2017
+    - Backpacking in Europa, Juni 2015 - August 2015
+    - Ehrenamtliche Assistentin, Arlesheim, Mai 2013 - Mai 2017 (Unterstützung einer schwer körperbehinderten jungen Frau bei organisatorischen Sachen, Mails, Briefe, Umzug, falls nötig Pflege bei Pflegepersonal-Ausfall)
+- layout: left
+  company: Novartis Pharma AG, Basel
+  link: novartis.ch
+  job_title: Scientific Lab Technician
+  dates: Juli 2012 - Mai 2015
+  description: |
+    In der Funktion als Technician Protein Analytics in der Abteilung IBP (Integrated Biologics Profiling)
+
+    - Verantwortlich für Konzept neuer Labor-Einrichtungen & Schutzmassnahmen für biopharmazeutische Proben (ADC/Chemoimmunkonjugat)
+    - Analytical Molecule Profiling
+    - Planung, Messdurchfürhung, Analyse, Datenauswertung und Protokollierung
+    - HPLC, CE (CZE), DSC & DSF Analytics
+    - Pippetier Roboter (Hamilton) Messmethoden Durchführung
+    - Verantwortlich für Equipment, Material und Bestellungen für mehrere Teams & Labore

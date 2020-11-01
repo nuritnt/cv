@@ -1,10 +1,49 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  name: Full Stack Bootcamp
+  dates: Januar 2017 - März 2017
+  qualification: Master21 Academy, Zurich
+  description: |
+    Während des neunwöchigen Vollzeit-Bootcamp von Master21 wurden Grundlagen des Programmierens theoretisch und praktisch vermittelt.
+    Ebenso war ein wichtiger Bestandteil des Bootcamps eine Einführung in die Branche und deren Netzwerke und Communities.
+    Als Abschluss wurde ein kleines Projekt realisiert um das Gelernte anzuwenden.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Mein Abschlussprojekt war ein Slack-Chatbot, welcher gesendete URLs erkennt und sie auf einer Platform speichert.
+    [github.com/nuritnt/tntbot](https://github.com/nuritnt/tntbot)
+
+    - Unix Shell
+    - Git
+    - OOP Einführung mit Ruby On Rails
+    - HTML5, CSS3, JavaScript
+    - Server und Clients
+- layout: left
+  name: Interaction Design / Kommunikationsdesign
+  dates: August 2015 - Februar 2016
+  qualification: SFGBB, Bern
+  description: |
+    Folgende Fächer wurden während des Studiums besucht:
+    - Konzeption (Strategie, Analyse, Planung, Spezifikation)
+    - Design (UI Design für stationäre und mobile Anwendungen, Typografie, Layout, Bildsprache, Design-Pattern und -Prinzipien)
+    - Interaktivität (User Centered Design, Informationsarchitektur, Psychologie für Designer)
+    - Idea Design (Kreativität)
+    - Technologie (Coding Basics, Frontend Coding)
+- layout: left
+  name: Desktop Publishing Diploma
+  dates: Oktober 2014 - März 2015
+  qualification: Migrosklubschule Basel, Gundelitor
+  description: |
+    Während dieser Weiterbildung wurden folgende theoretische und praktische Themen vermittelt.
+    Als praktische Abschlussprüfung wurde ein CI/CD inkl. Drucksacken für einen visuellen Gesamtauftritt einer Marketing & Kommunikationsagentur erarbeitet.
+    - Gestaltungsprinzipien, Farbenlehre, Typografie und Formenlehre
+    - Einführung in die Programme der Adobe Creative Cloud (Adobe Photoshop, Illustrator und InDesign)
+    - Mikrotypografie, Layout und Raster, Magazingestaltung
+    - Grundlagen der Werbelehre und Werbekonzeption
+    - Workshops zu Logo und Briefschaft, Broschüre, Flyer und Inserat
+- layout: left
+  name: Laborantin EFZ Biologie
+  dates: August 2009 - Juli 2012
+  qualification: Novartis Pharma AG, Basel
+  description: |
+    Vertiefung in invitro Zellbiologie & Biochemie
+
+    Während der dreijährigen Lehrzeit wurden die Fächer Pharmakologie, Histologie, Biochemie, Molekular-, Mikro-, Zellbiologie absolviert.
+    Begleitend fanden dazu drei Praktikas statt in den Gebieten Zellbiologie & Biochemie, Mikro- & Zellbiologie und Immunohistochemie.

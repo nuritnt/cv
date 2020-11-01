@@ -1,50 +1,60 @@
 # Site
-repository: sproogen/resume-theme
+repository: nuritnt/cv
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Tuğçe Nur Taş
+title: Software Engineer
+email: hello@tnt.click
+phone: +4179 843 18 28
+website: www.tnt.click
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+twitter_username: nuritnt
+github_username: nuritnt
+linkedin_username: nuritnt
+stackoverflow_username: "11361807"
+
+# Additional icon links
+additional_links:
+  - title: Codepen
+    icon: fa-codepen
+    url: https://codepen.io/nuritnt
 
 # About Section
-# about_title: About Me
+about_title: Über mich
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+about_content: |
+  Selam, ich bin Tuğçe Nur und arbeite als Software Engineer bei der Beratungs- und Entwicklungsagentur Panter AG.
+  Im Scrum Team realisiere ich Web-Applikationen, Single-Page-Webanwendungen oder Mobile Apps.
+  Durch meine Erfahrungen mit unterschiedlichen Arten von Kunden (Start-Ups, KMU's, Grossfirmen) bin ich sehr anpassungsfähig und arbeite mich gerne und selbstständing in neue Technologien ein.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  **Ich bin "curious by default" und packe gerne Herausforderungen an.**
+
+  Geburtsdatum: 18. November 1991\
+  Nationalität: Schweiz & Türkei\
+  Sprachen: Deutsch, Englisch, Türkisch, Französisch (Grundlagen)
 
 # Projects Section
-# projects_title: Projects
+projects_title: Technologien
 
 # Experience Section
-# experience_title: Experience
+experience_title: Berufserfahrung
 
 # Education Section
-# educaton_title: Education
+education_title: Ausbildung
 
 # More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+more_title: Mehr über mich
+more_content: |
+  **Volunteering**:
+  - Coach & Mentor an Events/Workshops für Programmier-Anfänger*innen (CodeExcursion, Rails Girls, Master21)
+  - GemüseAckerdemie: Ackern für Bildung und Ernährung. Mit Kindern und Jugendlichen gärtnern und somit die Wertschätzung von Lebensmitteln stärken.
+
+  **Hobbies**:
+  - Vogelbeobachtung/Hobby-Ornithologen-Anfängerin
+  - Mechanical Keyboards
+  - Konzerte
 
 # Footer
 footer_show_references: true
@@ -57,4 +67,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
